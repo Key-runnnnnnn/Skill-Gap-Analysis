@@ -52,17 +52,15 @@ const analyzeSkillGap = async (req, res) => {
       timestamp: new Date().toISOString()
     };
 
-    try {
-      await saveUserInput({
-        targetRole,
-        currentSkills,
-        matchedCount: matched.length,
-        missingCount: missing.length,
-        matchPercentage: stats.matchPercentage
-      });
-    } catch (storageError) {
+    saveUserInput({
+      targetRole,
+      currentSkills,
+      matchedCount: matched.length,
+      missingCount: missing.length,
+      matchPercentage: stats.matchPercentage
+    }).catch(storageError => {
       console.log('Note: Could not save to file storage:', storageError.message);
-    }
+    });
 
     res.json(result);
 
