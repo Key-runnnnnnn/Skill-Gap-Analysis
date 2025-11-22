@@ -1,0 +1,367 @@
+{
+  "Frontend Developer": {
+    "phase1": {
+      "title": "Foundation Phase",
+      "duration": "1-2 months",
+      "skills": [
+        "HTML fundamentals & semantic markup",
+        "CSS basics, Flexbox, and Grid",
+        "JavaScript fundamentals (ES6+)",
+        "Git & GitHub basics",
+        "Responsive design principles"
+      ],
+      "projects": [
+        "Personal portfolio website",
+        "Landing page with responsive design"
+      ]
+    },
+    "phase2": {
+      "title": "Framework & Tools Phase",
+      "duration": "2-3 months",
+      "skills": [
+        "React fundamentals & hooks",
+        "Component-based architecture",
+        "State management (Context API/Redux)",
+        "TypeScript basics",
+        "REST API integration",
+        "Tailwind CSS or CSS frameworks"
+      ],
+      "projects": [
+        "Todo app with CRUD operations",
+        "Weather app using public APIs",
+        "E-commerce product listing page"
+      ]
+    },
+    "phase3": {
+      "title": "Advanced & Deployment Phase",
+      "duration": "1-2 months",
+      "skills": [
+        "Next.js or advanced React patterns",
+        "Performance optimization",
+        "Testing (Jest, React Testing Library)",
+        "Deployment (Vercel, Netlify)",
+        "Build real-world projects",
+        "Portfolio refinement"
+      ],
+      "projects": [
+        "Full-featured blog or dashboard",
+        "Social media clone",
+        "Contribute to open-source"
+      ]
+    }
+  },
+  "Backend Developer": {
+    "phase1": {
+      "title": "Java & OOP Foundation",
+      "duration": "1-2 months",
+      "skills": [
+        "Java fundamentals & syntax",
+        "Object-Oriented Programming (OOP)",
+        "Data structures & algorithms basics",
+        "Git & version control",
+        "Basic SQL & database concepts"
+      ],
+      "projects": [
+        "Console-based Java applications",
+        "Simple CRUD operations with JDBC"
+      ]
+    },
+    "phase2": {
+      "title": "Spring Boot & APIs",
+      "duration": "2-3 months",
+      "skills": [
+        "Spring Boot framework",
+        "RESTful API development",
+        "Spring Data JPA & Hibernate",
+        "Authentication & authorization",
+        "API documentation (Swagger)",
+        "MySQL/PostgreSQL databases"
+      ],
+      "projects": [
+        "User management REST API",
+        "E-commerce backend with authentication",
+        "Blog API with CRUD operations"
+      ]
+    },
+    "phase3": {
+      "title": "Advanced & Deployment",
+      "duration": "1-2 months",
+      "skills": [
+        "Microservices architecture",
+        "Docker & containerization",
+        "Cloud deployment (AWS/Azure basics)",
+        "System design fundamentals",
+        "Logging & monitoring",
+        "Unit & integration testing"
+      ],
+      "projects": [
+        "Microservices-based application",
+        "Deploy APIs to cloud platforms",
+        "Build real-world scalable systems"
+      ]
+    }
+  },
+  "Data Analyst": {
+    "phase1": {
+      "title": "Excel & SQL Foundation",
+      "duration": "1-2 months",
+      "skills": [
+        "Advanced Excel (pivot tables, VLOOKUP, charts)",
+        "SQL fundamentals & queries",
+        "Basic statistics & data interpretation",
+        "Data cleaning techniques",
+        "Introduction to data visualization"
+      ],
+      "projects": [
+        "Sales data analysis in Excel",
+        "Create SQL queries for business insights",
+        "Clean and prepare datasets"
+      ]
+    },
+    "phase2": {
+      "title": "Python & Visualization",
+      "duration": "2-3 months",
+      "skills": [
+        "Python basics & libraries (Pandas, NumPy)",
+        "Data visualization (Matplotlib, Seaborn)",
+        "Statistical analysis",
+        "Power BI or Tableau fundamentals",
+        "Dashboard creation",
+        "Business intelligence concepts"
+      ],
+      "projects": [
+        "Customer analysis dashboard",
+        "Sales performance visualization",
+        "Automated reporting with Python"
+      ]
+    },
+    "phase3": {
+      "title": "Advanced Analytics & Reporting",
+      "duration": "1-2 months",
+      "skills": [
+        "Advanced Power BI/Tableau techniques",
+        "Predictive analytics basics",
+        "A/B testing & experimentation",
+        "ETL processes",
+        "Presenting insights to stakeholders",
+        "Real-world business case studies"
+      ],
+      "projects": [
+        "Complete business analytics project",
+        "Interactive dashboards for decision-making",
+        "Portfolio of data analysis case studies"
+      ]
+    }
+  },
+  "Full Stack Developer": {
+    "phase1": {
+      "title": "Web Fundamentals",
+      "duration": "1-2 months",
+      "skills": [
+        "HTML, CSS, JavaScript fundamentals",
+        "Responsive design",
+        "Git & GitHub",
+        "Node.js basics",
+        "Basic database concepts (SQL/NoSQL)"
+      ],
+      "projects": [
+        "Personal portfolio website",
+        "Simple Node.js server",
+        "Basic REST API"
+      ]
+    },
+    "phase2": {
+      "title": "Full Stack Framework",
+      "duration": "2-3 months",
+      "skills": [
+        "React fundamentals",
+        "Express.js & Node.js",
+        "MongoDB/PostgreSQL",
+        "Authentication & sessions",
+        "API design & integration",
+        "State management"
+      ],
+      "projects": [
+        "Full-stack blog application",
+        "Task management system",
+        "Social media clone"
+      ]
+    },
+    "phase3": {
+      "title": "Production & Deployment",
+      "duration": "1-2 months",
+      "skills": [
+        "Advanced React patterns",
+        "Deployment (Vercel, Railway, AWS)",
+        "Docker basics",
+        "Testing & debugging",
+        "Performance optimization",
+        "Security best practices"
+      ],
+      "projects": [
+        "E-commerce platform",
+        "Real-time chat application",
+        "Deploy production-ready apps"
+      ]
+    }
+  },
+  "DevOps Engineer": {
+    "phase1": {
+      "title": "Linux & Scripting",
+      "duration": "1-2 months",
+      "skills": [
+        "Linux fundamentals & command line",
+        "Shell scripting (Bash)",
+        "Git & version control",
+        "Networking basics",
+        "Cloud computing concepts"
+      ],
+      "projects": [
+        "Automate tasks with shell scripts",
+        "Set up Linux virtual machines",
+        "Basic server configuration"
+      ]
+    },
+    "phase2": {
+      "title": "Containerization & CI/CD",
+      "duration": "2-3 months",
+      "skills": [
+        "Docker & containerization",
+        "Kubernetes basics",
+        "CI/CD pipelines (Jenkins/GitHub Actions)",
+        "Infrastructure as Code (Terraform basics)",
+        "Cloud platforms (AWS/Azure/GCP basics)",
+        "Monitoring & logging"
+      ],
+      "projects": [
+        "Dockerize applications",
+        "Set up CI/CD pipeline",
+        "Deploy apps on Kubernetes"
+      ]
+    },
+    "phase3": {
+      "title": "Advanced DevOps",
+      "duration": "1-2 months",
+      "skills": [
+        "Advanced Kubernetes",
+        "Terraform & infrastructure automation",
+        "Monitoring tools (Prometheus, Grafana)",
+        "Security & compliance",
+        "Disaster recovery",
+        "System architecture & scalability"
+      ],
+      "projects": [
+        "Build complete CI/CD pipeline",
+        "Multi-cloud deployment",
+        "Production-grade infrastructure"
+      ]
+    }
+  },
+  "Mobile Developer": {
+    "phase1": {
+      "title": "Mobile Basics",
+      "duration": "1-2 months",
+      "skills": [
+        "JavaScript/TypeScript fundamentals",
+        "React basics",
+        "React Native fundamentals",
+        "Mobile UI/UX principles",
+        "Git & version control"
+      ],
+      "projects": [
+        "Simple mobile app (Hello World)",
+        "Todo list mobile app",
+        "Weather app"
+      ]
+    },
+    "phase2": {
+      "title": "Advanced Mobile Development",
+      "duration": "2-3 months",
+      "skills": [
+        "Navigation (React Navigation)",
+        "State management (Redux/Context)",
+        "REST API integration",
+        "Native modules & third-party libraries",
+        "Push notifications",
+        "Local storage & databases"
+      ],
+      "projects": [
+        "Social media app clone",
+        "E-commerce mobile app",
+        "Chat application"
+      ]
+    },
+    "phase3": {
+      "title": "Production & Publishing",
+      "duration": "1-2 months",
+      "skills": [
+        "App store deployment (iOS/Android)",
+        "Performance optimization",
+        "Testing & debugging",
+        "App analytics",
+        "Security best practices",
+        "Continuous updates"
+      ],
+      "projects": [
+        "Publish app to stores",
+        "Complete production-ready app",
+        "Portfolio of mobile apps"
+      ]
+    }
+  },
+  "Machine Learning Engineer": {
+    "phase1": {
+      "title": "Python & Math Foundation",
+      "duration": "1-2 months",
+      "skills": [
+        "Python programming",
+        "NumPy & Pandas",
+        "Statistics & probability",
+        "Linear algebra basics",
+        "Data preprocessing",
+        "Git & Jupyter notebooks"
+      ],
+      "projects": [
+        "Data analysis with Pandas",
+        "Statistical analysis projects",
+        "Data visualization"
+      ]
+    },
+    "phase2": {
+      "title": "Machine Learning Algorithms",
+      "duration": "2-3 months",
+      "skills": [
+        "Supervised learning algorithms",
+        "Unsupervised learning",
+        "Scikit-learn library",
+        "Model evaluation & validation",
+        "Feature engineering",
+        "TensorFlow/PyTorch basics",
+        "SQL for data extraction"
+      ],
+      "projects": [
+        "Classification projects (spam detection)",
+        "Regression models (price prediction)",
+        "Clustering analysis"
+      ]
+    },
+    "phase3": {
+      "title": "Deep Learning & Deployment",
+      "duration": "1-2 months",
+      "skills": [
+        "Deep learning & neural networks",
+        "CNN & RNN architectures",
+        "Model deployment",
+        "MLOps basics",
+        "Cloud ML platforms",
+        "Production ML systems"
+      ],
+      "projects": [
+        "Image classification with CNNs",
+        "NLP projects",
+        "Deploy ML models as APIs",
+        "End-to-end ML pipeline"
+      ]
+    }
+  }
+}

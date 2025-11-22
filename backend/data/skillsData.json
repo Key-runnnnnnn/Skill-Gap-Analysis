@@ -1,0 +1,88 @@
+{
+  "Frontend Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Git",
+    "Responsive Design",
+    "Tailwind CSS",
+    "TypeScript",
+    "REST APIs",
+    "Version Control"
+  ],
+  "Backend Developer": [
+    "Java",
+    "Spring Boot",
+    "SQL",
+    "APIs",
+    "Git",
+    "Database Design",
+    "RESTful Services",
+    "Authentication",
+    "Microservices",
+    "Docker"
+  ],
+  "Data Analyst": [
+    "Excel",
+    "SQL",
+    "Python",
+    "Dashboards",
+    "Statistics",
+    "Data Visualization",
+    "Power BI",
+    "Data Cleaning",
+    "Business Intelligence",
+    "Tableau"
+  ],
+  "Full Stack Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "SQL",
+    "Git",
+    "REST APIs",
+    "Authentication",
+    "Deployment"
+  ],
+  "DevOps Engineer": [
+    "Linux",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Git",
+    "Cloud Platforms",
+    "Terraform",
+    "Jenkins",
+    "Monitoring",
+    "Scripting"
+  ],
+  "Mobile Developer": [
+    "React Native",
+    "JavaScript",
+    "TypeScript",
+    "Mobile UI/UX",
+    "Git",
+    "REST APIs",
+    "State Management",
+    "App Deployment",
+    "Native Modules",
+    "Performance Optimization"
+  ],
+  "Machine Learning Engineer": [
+    "Python",
+    "Machine Learning",
+    "TensorFlow",
+    "PyTorch",
+    "Statistics",
+    "Data Processing",
+    "Model Deployment",
+    "Deep Learning",
+    "Git",
+    "SQL"
+  ]
+}
